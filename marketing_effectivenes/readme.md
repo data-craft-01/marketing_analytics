@@ -1,4 +1,4 @@
-Marketing effectiveness is measured by revenue generated in long/short term by a campaigns and by how well the company's costs of customer acquisition are lowered during that campaign.
+Marketing effectiveness is measured by revenue generated in long/short term by a campaigns and by how well the company's costs of customer acquisition are lowered during that campaign. Also, retention plays a part.
 
 -	Short-term revenue = new orders received X number of new customers won X ABV
 -	Long-term revenue = CLTV (avg annual profit / customer X avg number of years those customers buy from business)
